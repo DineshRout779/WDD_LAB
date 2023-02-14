@@ -1,0 +1,25 @@
+books {
+    color: #333;
+    width: 90%;
+    max-width: 1080px;
+    margin: 0 auto;
+}
+heading {
+    padding: 0.5em 0;
+    font-size : 40px;
+    text-align: center;
+}
+heading, title, author, publisher, edition, price {
+    display : block;
+}
+title {
+    font-size : 25px;
+    font-weight : bold;
+}
+
+ book{
+    display: block;
+    margin: 1em 0;
+    background-color: rgb(235, 227, 227);
+    padding: 1em;
+}
