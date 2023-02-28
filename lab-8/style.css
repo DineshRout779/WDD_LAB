@@ -1,0 +1,22 @@
+table,
+tr,
+td,
+th {
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+th {
+  background-color: #ddd;
+}
+
+td,
+th {
+  padding: 0.5em;
+}
+
+table {
+  width: 100%;
+  max-width: 360px;
+}
