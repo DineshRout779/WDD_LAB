@@ -1,0 +1,17 @@
+#hero {
+  width: 100%;
+  background: url('./images/cet.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 80vh;
+}
+
+.card-img {
+  aspect-ratio: 4/3 !important;
+}
+
+/* change colors here */
+
+/* #gallery {
+  background: rgb(205, 189, 220) !important;
+} */
